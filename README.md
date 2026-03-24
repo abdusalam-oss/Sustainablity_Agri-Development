@@ -1,8 +1,3 @@
-# GAN-based Super-Resolution Framework for Sustainable Agricultural and Water Resource Monitoring
-
-> **Multisensor Remote Sensing of Al-Qassim, Saudi Arabia**
-> Accepted / Under Review at *PeerJ Computer Science* (AI Applications)
-
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
