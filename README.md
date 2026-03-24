@@ -8,7 +8,7 @@
 
 This repository contains the complete implementation code for the paper:
 
-> **GAN-based Super-Resolution Framework for Sustainable Agricultural and Water Resource Monitoring Using Multisensor Remote Sensing**
+> **Development of a Novel Machine Learning Framework for Sustainable Agricultural Development **
 > Abdu Salam *et al.* — *PeerJ Computer Science*, 2024.
 
 The codebase implements a deep-learning super-resolution pipeline that enhances the spatial resolution of Landsat multispectral imagery from 30 m to 7.5 m (×4), and applies the enhanced imagery to agricultural monitoring and groundwater resource assessment across the Al-Qassim region of Saudi Arabia (73,000 km²) over the period 1982–2020.
